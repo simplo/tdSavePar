@@ -1,7 +1,7 @@
 # tdSavePar
 
 savePar
-Version 0.1 beta
+Version 0.2 beta
 10/03/2020
 
 A simple tox to save/load snapshots with all parameters of components inside a container
